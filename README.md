@@ -19,4 +19,5 @@ https://github.com/netology-code/py-homeworks-db/tree/master/introduction
 Написать SQL-запросы для создания таблиц из схемы, реализованной в предыдущем домашнем задании.
 
 Результатом работы является файл, содержащий SQL-запросы.
+
 https://github.com/netology-code/py-homeworks-db/tree/master/creation
